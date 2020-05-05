@@ -9,6 +9,7 @@
 
 ## intent:goodbye
 - bye
+- poki 
 - goodbye
 - see you around
 - see you later
