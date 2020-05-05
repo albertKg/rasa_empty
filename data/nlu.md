@@ -1,5 +1,6 @@
 ## intent:greet
 - hey
+- privet
 - hello
 - hi
 - good morning
